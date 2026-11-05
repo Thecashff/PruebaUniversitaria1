@@ -1,12 +1,12 @@
 # PruebaUniversitaria1
 Este repositorio creado es mi primera prueba universitaria en GitHub.
 
-# Mi primer repositorio en GitHub 🚀
+# Mi primer repositorio en GitHub
 
 > *Todo gran proyecto comienza con una primera línea de código, una idea o, en este caso, la creación de un repositorio.*
 > 
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 **Nombre:** Gómez Goya Juan  
 **Carrera:** Ingeniería de Software  
