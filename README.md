@@ -101,4 +101,4 @@ Quizás con el tiempo su contenido cambie, sus archivos aumenten y su propósito
 
 *Creado por Gómez Goya Juan | Ingeniería de Software | 2026*
 
-*«No importa qué tan pequeño sea el primer paso, siempre que sea el comienzo de algo más grande».
+*«No importa qué tan pequeño sea el primer paso, siempre que sea el comienzo de algo más grande».*
